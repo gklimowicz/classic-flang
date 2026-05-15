@@ -3,3 +3,8 @@ build*/
 
 VERSION
 .vscode
+
+*.log
+
+flang/
+install/
